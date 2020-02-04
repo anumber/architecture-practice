@@ -1,1 +1,1 @@
-# architecture-pratice
+# architecture-practice
